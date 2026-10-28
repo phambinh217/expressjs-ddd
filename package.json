@@ -1,7 +1,7 @@
 {
   "name": "backend-nodejs",
   "version": "1.0.0",
-  "description": "Backend API with TypeScript, Express and Sequelize v6",
+  "description": "Express + TypeScript + Sequelize (PostgreSQL) starter organised with domain-driven design",
   "main": "dist/server.js",
   "bin": {
     "backend-nodejs": "./dist/cli.js"
@@ -24,8 +24,8 @@
     "format:check": "prettier --check ."
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "phambinh217",
+  "license": "MIT",
   "dependencies": {
     "@vinejs/vine": "^4.4.0",
     "commander": "^12.1.0",
@@ -54,5 +54,12 @@
     "tsx": "^4.23.15",
     "typescript": "~6.0",
     "typescript-eslint": "^8.72.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phambinh217/expressjs-ddd.git"
+  },
+  "engines": {
+    "node": ">=18.18"
   }
 }
