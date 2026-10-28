@@ -41,7 +41,7 @@ DB_HOST=127.0.0.1
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=postgres
-DB_NAME=backend_nodejs
+DB_NAME=expressjs_ddd
 ```
 
 Create the database, run the migrations, then start the dev server:

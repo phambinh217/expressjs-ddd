@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Project `backend-nodejs`: **Express + TypeScript** (commonjs) + **Sequelize v6** + **PostgreSQL**.
+Project `expressjs-ddd`: **Express + TypeScript** (commonjs) + **Sequelize v6** + **PostgreSQL**.
 
 **camelCase toàn bộ** — request, response và tên cột DB (`userId`, `createdAt`) (xem
 `docs/coding-conventions/api-convention/controller-convention.md` § Casing).

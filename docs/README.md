@@ -1,4 +1,4 @@
-# Tài liệu backend-nodejs
+# Tài liệu expressjs-ddd
 
 Nguồn sự thật duy nhất về quy ước code. `CLAUDE.md` chỉ trỏ tới đây.
 Sửa code làm đổi quy ước → sửa file tương ứng trong cùng MR.

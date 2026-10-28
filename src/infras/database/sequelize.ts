@@ -7,7 +7,7 @@ dotenv.config()
  * Instance Sequelize (Postgres) dùng chung toàn app — hạ tầng persistence, không gắn domain cụ thể.
  */
 export const sequelize = new Sequelize(
-  process.env.DB_NAME || 'backend_nodejs',
+  process.env.DB_NAME || 'expressjs_ddd',
   process.env.DB_USER || 'postgres',
   process.env.DB_PASSWORD || '',
   {

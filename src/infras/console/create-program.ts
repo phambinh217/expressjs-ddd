@@ -6,7 +6,7 @@ import { Command } from 'commander'
 export const createProgram = (): Command => {
   const program = new Command()
 
-  program.name('backend-nodejs').description('Backend Node.js CLI').version('1.0.0')
+  program.name('expressjs-ddd').description('expressjs-ddd CLI').version('1.0.0')
 
   return program
 }

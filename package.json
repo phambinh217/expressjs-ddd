@@ -1,10 +1,10 @@
 {
-  "name": "backend-nodejs",
+  "name": "expressjs-ddd",
   "version": "1.0.0",
   "description": "Express + TypeScript + Sequelize (PostgreSQL) starter organised with domain-driven design",
   "main": "dist/server.js",
   "bin": {
-    "backend-nodejs": "./dist/cli.js"
+    "expressjs-ddd": "./dist/cli.js"
   },
   "scripts": {
     "dev": "tsx watch src/server.ts",
